@@ -1,6 +1,7 @@
 ## 关于本项目
 
 个人学习用，容易上手，效果可能不是特别好。
+项目来源：https://github.com/TCY07/YOLOv1
 
 ## 准备工作
 
@@ -29,4 +30,6 @@ https://download.pytorch.org/models/resnet50-19c8e357.pth
 
 ## 进行预测
 >python predict.py --image_name [filename]
+>
+
 
