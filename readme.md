@@ -1,7 +1,8 @@
 ## 关于本项目
 
-个人学习用，容易上手，效果可能不是特别好。 
-项目来源：https://github.com/TCY07/YOLOv1
+YOLO+resnet50 
+项目来源：https://github.com/TCY07/YOLOv1 
+
 
 ## 准备工作
 
